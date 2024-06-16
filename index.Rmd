@@ -1,5 +1,5 @@
 ---
-title: "Portfolio"
+title: "index"
 author: "Bianka Fábryová"
 date: "2024-06-16"
 output: html_document
